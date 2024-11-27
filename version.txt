@@ -1,4 +1,4 @@
 {
   "version": "1.2",
-  "update": "https://www.google.com"
+  "update": "https://www.youtube.com/watch?v=TLnwqAarPkM"
 }
